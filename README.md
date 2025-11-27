@@ -1,16 +1,20 @@
-## Hi there 👋
+### Salut, moi c'est Carlos ! 👋
 
-<!--
-**cuplo-dev/cuplo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👨‍💻 Who am I? (Qui suis-je ?)**
+Étudiant en **L3 Informatique** à Caen. Je suis un développeur au profil hybride : j'aime la rigueur du code bas niveau et la créativité du développement interactif.
+*Cherche un stage de 4 mois à partir d'avril 2026.*
 
-Here are some ideas to get you started:
+**🔭 What am I working on? (Sur quoi je bosse ?)**
+Je conçois des applications robustes et des jeux.
+* 🎮 **Game Dev :** Création de jeux en Java (Architecture MVC) et exploration d'Unity.
+* 💻 **Système :** Scripts d'automatisation et administration Linux.
+* 🎵 **Audio :** Intégration de Sound Design dans mes projets interactifs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠 What tools do I use? (Mes outils)**
+* **Langages :** Java, C, Python, SQL, PHP/HTML/CSS.
+* **Système :** Linux (Ubuntu), Git, VS Code.
+* **Créatif :** FL Studio, Montage Vidéo.
+
+**📫 How to reach me? (Me contacter)**
+Une idée de projet ou une offre de stage ?
+📧 **Email :** carlosbasse.pro@gmail.com
